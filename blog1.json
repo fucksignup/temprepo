@@ -1,0 +1,13 @@
+{
+  "topicName": "Understanding Cryptography Basics",
+  "authorName": "Alex Developer",
+  "dateOfUpload": "2026-06-15",
+  "readTime": "4 min read",
+  "tags": ["Cryptography", "Security", "Math"],
+  "summary": "A brief overview of modern cryptographic principles, public-key encryption, and hashing algorithms explained simply.",
+  "hotpoints": [
+    "Symmetric vs. Asymmetric encryption differences",
+    "How public and private keys secure digital communication",
+    "Real-world applications of cryptographic hashing"
+  ]
+}
