@@ -74,12 +74,16 @@ Cryptography is the backbone of modern digital security. It ensures that data re
 
 ### Equation
 
-$$a \le b$$
+$$
+a \le b
+$$
 
 
 ### Equation 2
 
-$$\sum_{i=1}^{n} \frac{i^2 + 2i + 1}{i(i+1)} = \int_{0}^{1} \frac{x^2}{1+x^2}\,dx \sum_{i=1}^{n} \frac{i^2 + 2i + 1}{i(i+1)} = \int_{0}^{1} \frac{x^2}{1+x^2}\,dx$$
+$$
+\sum_{i=1}^{n} \frac{i^2 + 2i + 1}{i(i+1)} = \int_{0}^{1} \frac{x^2}{1+x^2}\,dx \sum_{i=1}^{n} \frac{i^2 + 2i + 1}{i(i+1)} = \int_{0}^{1} \frac{x^2}{1+x^2}\,dx
+$$
 
 ## Why Does Cryptography Matter?
 Every time $a = b\bmod p$ you visit a secure website (`https://`), log into your bank account, or send an end-to-end encrypted message, cryptography is working behind the scenes. 
