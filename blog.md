@@ -76,6 +76,14 @@ Cryptography is the backbone of modern digital security. It ensures that data re
 
 $$a \le b$$
 
+
+### Equation 2
+
+$$I_{\text{SERS}}(\Delta x) = u \exp\left(
+        \frac{(\Delta x - \mu_g)^2}{2\sigma_g^2} +
+        \frac{2L\sigma_l}{4\pi(\Delta x - \mu_l)^2 + \sigma_l^2} +
+        I_0$$
+
 ## Why Does Cryptography Matter?
 Every time $a = b\bmod p$ you visit a secure website (`https://`), log into your bank account, or send an end-to-end encrypted message, cryptography is working behind the scenes. 
 
