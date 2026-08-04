@@ -72,8 +72,12 @@ As cyber threats evolve, understanding the mathematics behind secure systems bec
 
 Cryptography is the backbone of modern digital security. It ensures that data remains confidential, authentic, and tamper-proof as it moves across the internet.
 
+### Equation
+
+$$a \le b$$
+
 ## Why Does Cryptography Matter?
-Every time you visit a secure website (`https://`), log into your bank account, or send an end-to-end encrypted message, cryptography is working behind the scenes. 
+Every time $a = b\bmod p$ you visit a secure website (`https://`), log into your bank account, or send an end-to-end encrypted message, cryptography is working behind the scenes. 
 
 ### Core Pillars
 1. **Confidentiality:** Only the intended recipient can read the message.
