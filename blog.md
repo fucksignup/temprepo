@@ -82,15 +82,11 @@ $$
 ### Equation 2
 
 $$
-H={1,ω,ω 
-2
- ,…,ω 
-T−1
- }
+H = \int_{1}^{2} \{1, \omega, \omega\}
 $$
 
 ## Why Does Cryptography Matter?
-Every time $a = b\bmod p$ you visit a secure website (`https://`), log into your bank account, or send an end-to-end encrypted message, cryptography is working behind the scenes. 
+Every time $ a = b\bmod p $ you visit a secure website (`https://`), log into your bank account, or send an end-to-end encrypted message, cryptography is working behind the scenes. 
 
 ### Core Pillars
 1. **Confidentiality:** Only the intended recipient can read the message.
