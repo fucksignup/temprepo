@@ -82,7 +82,11 @@ $$
 ### Equation 2
 
 $$
-\sum_{i=1}^{n} \frac{i^2 + 2i + 1}{i(i+1)} = \int_{0}^{1} \frac{x^2}{1+x^2}\,dx \sum_{i=1}^{n} \frac{i^2 + 2i + 1}{i(i+1)} = \int_{0}^{1} \frac{x^2}{1+x^2}\,dx
+H={1,ω,ω 
+2
+ ,…,ω 
+T−1
+ }
 $$
 
 ## Why Does Cryptography Matter?
